@@ -1,2 +1,2 @@
 # Activities-and-intents
-![gif1](https://user-images.githubusercontent.com/50353804/161395297-f8db6069-f05d-46ac-a9a9-d1e4f35d3fe1.gif)
+![gif1](https://user-images.githubusercontent.com/50353804/161395990-521d0310-db21-40b1-9c55-bfdfcc3b1f19.gif)
